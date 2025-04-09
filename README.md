@@ -28,9 +28,9 @@ Desenvolver um modelo de otimização multiobjetivo que proponha a melhor aloca�
 📦 Fontes de Dados
 Você pode começar com dados simulados (depois usar reais). Aqui estão sugestões:
 
-Item	Fonte
-Rentabilidade por cultura	CONAB / Embrapa / SEBRAE
-Necessidade hídrica	Embrapa, universidades agrícolas
-Compatibilidade climática	INMET / ClimaTempo
-Regras de rotação	Embrapa / literatura técnica
-Áreas da propriedade	Dados simulados ou baseados na realidade
+Item	                        Fonte
+Rentabilidade por cultura	    CONAB / Embrapa / SEBRAE
+Necessidade hídrica	          Embrapa, universidades agrícolas
+Compatibilidade climática	    INMET / ClimaTempo
+Regras de rotação	            Embrapa / literatura técnica
+Áreas da propriedade	        Dados simulados ou baseados na realidade
