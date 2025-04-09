@@ -11,7 +11,7 @@ Este projeto aplica algoritmos evolutivos, especificamente o **NSGA-II**, para r
 
 ## 🚀 Objetivo
 
-Desenvolver um modelo de otimização multiobjetivo que proponha a melhor alocação de culturas agrícolas por talhão, balanceando os interesses econômicos, ambientais e agronômicos do produtor rural.
+Decidir a melhor combinação de culturas por área da propriedade rural, respeitando clima, rotação de culturas, e rentabilidade.
 
 ---
 
