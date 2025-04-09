@@ -25,12 +25,10 @@ Desenvolver um modelo de otimização multiobjetivo que proponha a melhor aloca�
   - `f3`: penalização por quebra de rotação (minimizar)
 
 ---
-📦 Fontes de Dados
-Você pode começar com dados simulados (depois usar reais). Aqui estão sugestões:
-
-Item	                        Fonte
-Rentabilidade por cultura	    CONAB / Embrapa / SEBRAE
-Necessidade hídrica	          Embrapa, universidades agrícolas
-Compatibilidade climática	    INMET / ClimaTempo
-Regras de rotação	            Embrapa / literatura técnica
-Áreas da propriedade	        Dados simulados ou baseados na realidade
+## 📦 Fontes de Dados
+                     
+ - Rentabilidade por cultura(CONAB / Embrapa / SEBRAE)
+- Necessidade hídrica(Embrapa, universidades agrícolas)
+- Compatibilidade climática(INMET / ClimaTempo)
+- Regras de rotação(Embrapa / literatura técnica)
+- Áreas da propriedade(Dados simulados ou baseados na realidade)
