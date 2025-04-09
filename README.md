@@ -32,3 +32,40 @@ Desenvolver um modelo de otimização multiobjetivo que proponha a melhor aloca�
 - Compatibilidade climática(INMET / ClimaTempo)
 - Regras de rotação(Embrapa / literatura técnica)
 - Áreas da propriedade(Dados simulados ou baseados na realidade)
+--- 
+
+## 📈 Resultados Esperados
+
+Conjunto de soluções de Pareto: lucro vs água
+
+Gráfico de alocação otimizada por talhão
+
+Relatórios em .xlsx ou .pdf
+
+Interface para simulação (Streamlit)
+
+---
+## 📌 Status do Projeto
+🚧 Em desenvolvimento. Próximos passos:
+
+ Adicionar dados reais
+
+ Integrar com mapa via folium ou plotly
+
+ Publicar demo via Streamlit Cloud
+ 
+----
+
+### 📚 Referências
+Deb, K. et al. (2002) — A Fast and Elitist Multiobjective Genetic Algorithm: NSGA-II
+
+pymoo: Multi-objective optimization in Python (https://pymoo.org)
+
+Embrapa e CONAB — Dados agronômicos de referência
+
+---
+## 🤝 Contribuições
+Sinta-se livre para abrir issues, enviar pull requests ou propor melhorias. Toda colaboração é bem-vinda! 🌱
+
+## 🧑‍💻 Autor
+Taís Aparecida Alvarenga — Cientista de Dados em transição para Engenharia de Dados com foco em IA aplicada à agropecuária.
